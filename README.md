@@ -5,20 +5,20 @@ I am Expert WordPress Developer. I have over 3 years of experience in WordPress,
 
 Have a look of my few examples,
 
-http://alexsainsbury.com/
-http://www.hiranomushroom.com/(Brooklyn Theme)
-http://www.justgwagons.com/ (X Theme)
-http://bbqbeat.com/ (Genesis Theme + Child Theme)
-http://www.supremelylimitless.com/ (Insta Page Builder)
-http://www.shiningwebstudios.com/ (BETHEME)(with Visual Composer
-http://www.stoneindia.co.uk (ECommerce)
-http://realestatewebcreation.com/ (Brooklyn Theme)
+http://alexsainsbury.com/ <br>
+http://www.hiranomushroom.com/(Brooklyn Theme) <br>
+http://www.justgwagons.com/ (X Theme) <br>
+http://bbqbeat.com/ (Genesis Theme + Child Theme) <br>
+http://www.supremelylimitless.com/ (Insta Page Builder) <br>
+http://www.shiningwebstudios.com/ (BETHEME)(with Visual Composer <br>
+http://www.stoneindia.co.uk (ECommerce) <br>
+http://realestatewebcreation.com/ (Brooklyn Theme) <br>
 
 
-I also have experience with WordPress Plugin development, this is my WordPress Repo link
+I also have experience with WordPress Plugin development, this is my WordPress Repo link  <br>
 
-https://profiles.wordpress.org/omikant/ (Personal Profile)
-https://profiles.wordpress.org/Umakant_dataman (Dataman Profile)
+https://profiles.wordpress.org/omikant/ (Personal Profile) <br>
+https://profiles.wordpress.org/Umakant_dataman (Dataman Profile) <br>
 
 These are following plugins which is developed by me,
 
